@@ -48,3 +48,10 @@ Development Environment:
 * App tested with BlueStacks on Windows 7 machine
 
   
+  
+#### Resources:
+
+* guides.codepath.com
+* https://vimeo.com/113893630
+    A basic app to demonstrate text field, button, label and alert(toast)
+ 

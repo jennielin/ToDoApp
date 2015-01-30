@@ -22,7 +22,7 @@ Concepts:
 
 * ListView / EditText / Button
 
-* Adapter - between data and views
+* Adapter - map data to a view
 
 * onClick handling for buttion and list item
 
@@ -49,9 +49,16 @@ Development Environment:
 
   
   
-#### Resources:
-
-* guides.codepath.com
+#### Learning Steps:
 * https://vimeo.com/113893630
     A basic app to demonstrate text field, button, label and alert(toast)
+* http://vimeo.com/72475810
+    
+* http://developer.android.com/design/building-blocks/lists.html 
+    Lists
+
+
+#### Resources:
+* guides.codepath.com
+
  

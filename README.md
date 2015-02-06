@@ -54,8 +54,8 @@ Development Environment:
     A basic app to demonstrate text field, button, label and alert(toast)
 * http://vimeo.com/72475810
     
-* http://developer.android.com/design/building-blocks/lists.html 
-    Lists
+* Understanding HTTP and APIs
+    https://github.com/codepath/android_guides/wiki/Beginning-Android-Resources#understanding-http-and-apis
 
 
 #### Resources:

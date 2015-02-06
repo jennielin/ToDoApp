@@ -60,5 +60,8 @@ Development Environment:
 
 #### Resources:
 * guides.codepath.com
+* Android resources https://plus.google.com/+MelissaPowel007/posts/UA1gmsPp9BT
 
+#### Interesting stuff:
+* https://plus.google.com/+KatherineKuanPlus/posts/1PTKho56aJu
  
